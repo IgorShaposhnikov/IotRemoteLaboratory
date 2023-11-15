@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IotRemoteLaboratory.Server", "IotRemoteLaboratory\Server\IotRemoteLaboratory.Server.csproj", "{F8C73A62-D11A-48FB-81F7-01CD1BEADA65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IotRemoteLaboratory.Client", "IotRemoteLaboratory\Client\IotRemoteLaboratory.Client.csproj", "{A2F64828-1E7F-4EE7-A825-1A58D8EE623A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IotRemoteLaboratory.Shared", "IotRemoteLaboratory\Shared\IotRemoteLaboratory.Shared.csproj", "{DA9F5B77-7199-410A-8BC6-A449607CDDBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8C73A62-D11A-48FB-81F7-01CD1BEADA65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C73A62-D11A-48FB-81F7-01CD1BEADA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C73A62-D11A-48FB-81F7-01CD1BEADA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C73A62-D11A-48FB-81F7-01CD1BEADA65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2F64828-1E7F-4EE7-A825-1A58D8EE623A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F64828-1E7F-4EE7-A825-1A58D8EE623A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F64828-1E7F-4EE7-A825-1A58D8EE623A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F64828-1E7F-4EE7-A825-1A58D8EE623A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9F5B77-7199-410A-8BC6-A449607CDDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9F5B77-7199-410A-8BC6-A449607CDDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9F5B77-7199-410A-8BC6-A449607CDDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9F5B77-7199-410A-8BC6-A449607CDDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5DD6D91-66FE-41F4-815B-058D27568DFF}
+	EndGlobalSection
+EndGlobal
